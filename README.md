@@ -1,7 +1,7 @@
 <div align="justify">
 
  <div align="center">
-  <img src="portada.jpeg">
+  <img src="imagenes/portada.jpeg">
 </div>
 
 # ETS Entornos de desarrollo
