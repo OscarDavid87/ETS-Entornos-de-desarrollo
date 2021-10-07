@@ -1,9 +1,10 @@
+<div align="justify">
 
-<div aling="center">
-<img src="portada.jpeg">
+ <div align="center">
+  <img src="portada.jpeg">
 </div>
 
-# ETS-Entornos-de-desarrollo
+# ETS Entornos de desarrollo
 
 
 Repositorio de la asiganatura Entornos de desarrollo de primero de DWA
@@ -16,3 +17,5 @@ Repositorio de la asiganatura Entornos de desarrollo de primero de DWA
 - [Instalación de Netbean 12]()
 - [Instalación de Intelij]()
 - [Instalación de VS-Code]()
+
+  </div>
