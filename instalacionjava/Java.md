@@ -15,7 +15,7 @@ e instalamos Java con este comando:
   sudo apt-get install default-jdk
 ```
 
-<img src="ImagenesJDK/1.png" alt="1">
+<img src="imagenes/1.png" alt="1">
 
 En esta imagen vemos como se ejecutan los comandos anteriormente comentados. Podemos ver la ejecución de la instalación, una vez finalizada pasamos al siguiente comando 
 
@@ -27,7 +27,7 @@ comprobamos que tenemos instalado Java en nuestro sistema solo debemos de ejecut
 ```
 
 <div aling="center">
-<img src="ImagenesJDK/java - version 1.1.png" alt="java - version 1.1">
+<img src="imagenes/java - version 1.1.png" alt="java - version 1.1">
 <div>
 
 
@@ -53,11 +53,11 @@ Para OpenJDK 11, 9 y 8 respectivamente:
    ```
 
 
-<img src="ImagenesJDK/2.2.png" alt="2.2">
+<img src="imagenes/2.2.png" alt="2.2">
 
 Vemos que al intentar la versión 9 nos da un fallo. Pasamos directamente a instalar la versión 8.
 
-<img src="ImagenesJDK/2.3.png" alt="2.3">
+<img src="imagenes/2.3.png" alt="2.3">
 
 La versión que se debe de trabajar es la versión 8. Para ello verificaremos la versión de java que se esta ejecutando con la sentencia:
 
@@ -65,7 +65,7 @@ La versión que se debe de trabajar es la versión 8. Para ello verificaremos la
   java --version
 ```
 
-<img src="ImagenesJDK/3.1.png" alt="3.1">
+<img src="imagenes/3.1.png" alt="3.1">
 
 
 
@@ -96,6 +96,6 @@ sudo update-alternatives --config java
  y selecciona la version _8_.
 
 
-<img src="ImagenesJDK/3.2.png" alt="3.2">
+<img src="imagenes/3.2.png" alt="3.2">
 
 Vemos como se ejecutaron los comandos y modificamos las variables, como resultados tenemos la versión 8 de java. 
