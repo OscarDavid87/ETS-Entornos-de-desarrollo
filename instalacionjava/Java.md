@@ -99,3 +99,5 @@ sudo update-alternatives --config java
 <img src="imagenes/3.2.png" alt="3.2">
 
 Vemos como se ejecutaron los comandos y modificamos las variables, como resultados tenemos la versión 8 de java. 
+  
+ [Pagina Principal](https://github.com/OscarDavid87/ETS-Entornos-de-desarrollo/blob/main/README.md)
