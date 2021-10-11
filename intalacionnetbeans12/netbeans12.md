@@ -16,13 +16,13 @@
 sudo snap install netbeans --classic
 ```
 
-  La instalación finalizará cuando veas el sigueinte mensaje:
+  La instalación finalizará cuando veas el siguiente mensaje:
 
   ```console
   netbeans 12.5 from Apache NetBeans✓ installed
   ```
 
-# Ejecutando Netbeans 12
+# Ejecutar Netbeans 12
 
   Ahora que Netbeans está instalado en su sistema Ubuntu, puede iniciarlo escribiendo netbeans en su terminal o haciendo clic en el icono de Netbeans ( Activities -> Netbeans ).
 
