@@ -90,4 +90,4 @@ sudo snap install --classic code
   
   <img src="imagenes/vs10.png">
   
-   [Pagina Principal](https://github.com/OscarDavid87/ETS-Entornos-de-desarrollo)
+   [Pagina Principal](https://github.com/OscarDavid87/ETS-Entornos-de-desarrollo/blob/main/README.md)
