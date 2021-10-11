@@ -27,4 +27,4 @@ sudo snap install intellij-idea-community --classic
   <img src="imagenes/int2.png">
  
 
- [Pagina Principal](https://github.com/OscarDavid87/ETS-Entornos-de-desarrollo)
+ [Pagina Principal](https://github.com/OscarDavid87/ETS-Entornos-de-desarrollo/blob/main/README.md)
