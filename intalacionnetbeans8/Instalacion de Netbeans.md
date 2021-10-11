@@ -41,5 +41,5 @@ chmod +x jdk-8u111-nb-8_2-linux-x64.sh
   
 <img src="imagenes/ntb8.6.png">
   
- [Pagina Principal](https://github.com/OscarDavid87/ETS-Entornos-de-desarrollo)
+ [Pagina Principal](https://github.com/OscarDavid87/ETS-Entornos-de-desarrollo/blob/main/README.md)
    </div>
