@@ -8,8 +8,6 @@
 
 ## Instalación
 
-  Los paquetes Snap son paquetes de software universales prediseñados que se envían con las bibliotecas y dependencias requeridas por el paquete de software. Son independientes de la distribución y se pueden instalar en cualquier distribución principal de Linux. Los snaps son populares ya que no requieren ninguna dependencia durante la instalación, lo que hace que el proceso de instalación sea fluido y sin errores.
-
   Para instalar VS-Code, ejecute el siguiente comando:
 
 ```console
@@ -17,16 +15,17 @@ sudo snap install --classic code
 ```
 
   Esto debería llevar unos minutos y debería continuar sin problemas.
+  
+  
+  <img src="imagenes/vs1.png">
 
-### Lanzamiento de VS-Code
+## Lanzamiento de VS-Code
 
   Para iniciar VS-Code en Ubuntu, use la aplicación para buscarlo (_Activities o Alt + F1_) como se muestra. Luego haga clic en el ícono de VS-Code.
 
-  Busca un icono similar al siguiente, dado que puede sufrir modificaciones en función de la versión:
-
-  <div align="center">
-    <img src="https://jpexposito.com/wp-content/uploads/2021/02/vsc-trans-1019x1024.png" width="150px">
-  </div>
+  
+  <img src="imagenes/vs2.png">
+ 
 
 ### Extensiones Necesarias
 
@@ -38,35 +37,57 @@ sudo snap install --classic code
   - Java Test Runner
   - Maven for Java
   - Java Dependency Viewer
-
-#### Otras extensiones
-
-  Existen extensiones que dejando aparte el tipo de desarrollo que estés realizando, su instalación es casi obligatoria.
+  
+  
+  <img src="imagenes/vs3.png">
 
 ##### Visual Studio IntelliCode
 
   Es una extensión que incorpora inteligencia artificial para ayudarte a codificar. Admite Python, JavaScript / TypeScript y Java.
+  
+  
+  <img src="imagenes/vs4.png">
 
 ##### Path Intellisense
 
   Esta extensión permite escribir fácilmente nombres de rutas de archivos.
+  
+  
+  <img src="imagenes/vs5.png">
 
 ##### Bracket Pair Colorizer
 
   Nos ayuda a ver más fácilmente el bloque de código que se encuentra entre los caracteres (), {}, [] trazando una línea. Permite configurar otros tipos de caracteres.
+  
+  
+  <img src="imagenes/vs6.png">
 
 ##### GitLens
 
   Sobrealimenta las capacidades de Git que ya se encuentran integradas en Visual Studio Code. Ayuda a visualizar el autor del código, navegar y explorar sin problemas los repositorios de Git, obtener información valiosa a través de potentes comandos de comparación y mucho más.
 
+  
+  <img src="imagenes/vs7.png">
+  
 ##### Prettier
 
   Herramienta que formatea el código automáticamente, esto permite despreocuparse de si nuestro código esta bien identado.
+  
+  
+  <img src="imagenes/vs8.png">
 
 ##### Color Highlight
 
   Facilita la visualización de los colores. Rodea el código hexadecimal del color en un rectángulo con el color elegido.
+  
+  
+  <img src="imagenes/vs9.png">
 
 ##### Indent Rainbow
 
   Esta extensión colorea la sangría frente a su texto alternando cuatro colores diferentes en cada paso, ayuda a visualizar el correcto indentado del código.
+  
+  
+  <img src="imagenes/vs10.png">
+  
+   [Pagina Principal](https://github.com/OscarDavid87/ETS-Entornos-de-desarrollo)
