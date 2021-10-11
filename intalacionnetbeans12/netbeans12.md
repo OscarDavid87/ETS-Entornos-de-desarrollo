@@ -33,4 +33,4 @@ sudo snap install netbeans --classic
 
   <img src="imagenes/ntb12.3.png">
   
-   [Pagina Principal](https://github.com/OscarDavid87/ETS-Entornos-de-desarrollo)
+   [Pagina Principal](https://github.com/OscarDavid87/ETS-Entornos-de-desarrollo/blob/main/README.md)
