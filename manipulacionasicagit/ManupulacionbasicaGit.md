@@ -1,4 +1,5 @@
 <div align="justify">
+	
 # Manipulación de repositorios en Git
 
 ## Configuración
