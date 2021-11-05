@@ -88,10 +88,16 @@ git commit -m "Añadido índice de la asignatura DPL."
 
 ## Modificación de ficheros.
 Cambiamos el fichero indece.txt para que tenga lo siguiente:
+	
+	
 •	Capítulo 1: Instalación de Git por el alumno XXX (donde XXX es el nombre del alumno)
+	
 •	Capítulo 2: Flujo de trabajo básico
+	
 •	Capítulo 3: Gestión de ramas
+	
 •	Capítulo 4: Repositorios remotos
+	
 
 ```
 cat > indice.txt
